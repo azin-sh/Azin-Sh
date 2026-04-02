@@ -1,6 +1,6 @@
-![Skills Header](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Azin%20Shahrokhi&fontSize=70)
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33CC33&center=true&vCenter=true&width=435&lines=Azin+Shahrokhi;IT+Specialist+%26+Data+Analyst;AI+%26+Machine+Learning" alt="Typing SVG" />
+</p>
 
 # Hi there, I'm Azin Shahrokhi 👋
 
