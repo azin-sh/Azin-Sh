@@ -36,6 +36,7 @@ Currently based in **California**, I am expanding my technical stack at Las Posi
 ---
 ### 📂 Available Case Studies
 * [CRM & Billing Integration Analysis](./crm-billing-integration.md) - *Reducing manual processing by 40%.*
+* [Data-Driven Marketing Strategy](./marketing-data-visualization.md) - *Using Tableau and SQL to drive a 15% increase in campaign success.*
   
 ### 📫 Connect with Me
 * **LinkedIn:** [linkedin.com/in/azin-shahrokhi](https://www.linkedin.com/in/azin-shahrokhi)
