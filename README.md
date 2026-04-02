@@ -34,7 +34,7 @@ Currently based in **California**, I am expanding my technical stack at Las Posi
 * 🛍️ **[Customer Segmentation](https://github.com/Azin-sh/mall-customer-clustering-K-Mean-)** - *Unsupervised learning using K-Means.*
 * 🤖 **[Autonomous Robotics](https://github.com/Azin-sh/autonomous-delivery-cart)** - *Python-based navigation and recovery logic.*
 ---
-### 📂 Available Case Studies
+
 ### 📂 Available Case Studies
 * [CRM & Billing Integration Analysis](https://github.com/Azin-sh/enterprise-systems-case-studies/blob/main/crm-billing-integration.md) - *Reducing manual processing by 40%.*
 * [Data-Driven Marketing Strategy](https://github.com/Azin-sh/enterprise-systems-case-studies/blob/main/marketing-data-visualization.md) - *Using Tableau and SQL to drive a 15% increase in campaign success.*
