@@ -29,11 +29,10 @@ Currently based in **California**, I am expanding my technical stack at Las Posi
 ---
 
 ### 📂 Featured Repositories
-* 🏠 **[Intro to Machine Learning](https://github.com/Azin-sh/kaggle-intro-to-machine-learning)**
-* 🏠 **[Intro to Machine Learning](./kaggle-intro-to-machine-learning)** - Regression models for house price prediction.
-* 🛍️ **[Customer Segmentation](./mall-customer-clustering)** - Unsupervised learning using K-Means.
-* 🤖 **[Autonomous Robotics](./autonomous-delivery-cart)** - Python-based navigation and recovery logic.
-
+* 💼 **[Enterprise IT & Telecom Portfolio](https://github.com/Azin-sh/enterprise-systems-case-studies)** - *experiences of engineering impact.*
+* 🏠 **[Intro to Machine Learning](https://github.com/Azin-sh/kaggle-intro-to-machine-learning)** - *Regression models for house price prediction.*
+* 🛍️ **[Customer Segmentation](https://github.com/Azin-sh/mall-customer-clustering-K-Mean-)** - *Unsupervised learning using K-Means.*
+* 🤖 **[Autonomous Robotics](https://github.com/Azin-sh/autonomous-delivery-cart)** - *Python-based navigation and recovery logic.*
 ---
 ### 📂 Available Case Studies
 * [CRM & Billing Integration Analysis](./crm-billing-integration.md) - *Reducing manual processing by 40%.*
