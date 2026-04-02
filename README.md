@@ -1,11 +1,12 @@
 ![Skills Header](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Azin%20Shahrokhi&fontSize=70)
 
-&nbsp;
+---
+
 # Hi there, I'm Azin Shahrokhi 👋
 
 ### 🛰️ IT Specialist | Data Analyst | AI & Machine Learning Student
 
-I am a certified **Data Analyst** and **Computer Engineer** with a strong background in **Telecommunication and OSS/BSS systems**. I specialize in supporting and designing enterprise IT systems, with a proven track record of improving data accuracy and customer satisfaction by **10–30%**.
+I am a certified **Data Analyst** and **Computer Engineer** (Isfahan University) with extensive experience in **Telecommunication and OSS/BSS systems**. I specialize in supporting and designing enterprise IT systems, with a proven track record of improving data accuracy and customer satisfaction by **10–30%**.
 
 Currently based in **California**, I am expanding my technical stack at Las Positas College, bridging my enterprise IT foundation with modern **AI/Machine Learning**, **Cloud Computing**, and **Autonomous Robotics**.
 
