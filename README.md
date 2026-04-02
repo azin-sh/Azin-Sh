@@ -1,4 +1,4 @@
-
+![Skills Header](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Azin%20Shahrokhi&fontSize=70)
 # Hi there, I'm Azin Shahrokhi 👋
 
 ### 🛰️ IT Specialist | Data Analyst | AI & Machine Learning Student
