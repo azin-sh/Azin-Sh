@@ -29,11 +29,13 @@ Currently based in **California**, I am expanding my technical stack at Las Posi
 ---
 
 ### 📂 Featured Repositories
-* 💼 **[Enterprise IT & Telecom Portfolio](https://github.com/Azin-sh/enterprise-systems-case-studies)** - *experiences of engineering impact.*
+* 💼 **[Enterprise IT & Telecom Portfolio](https://github.com/Azin-sh/enterprise-systems-case-studies)** - *10+ years of engineering impact.*
+    * 📑 [CRM & Billing Integration](https://github.com/Azin-sh/enterprise-systems-case-studies/blob/main/crm-billing-integration.md)
+    * 📊 [Marketing Data Visualization](https://github.com/Azin-sh/enterprise-systems-case-studies/blob/main/marketing-data-visualization.md)
+    * ⚙️ [SQL Process Automation](https://github.com/Azin-sh/enterprise-systems-case-studies/blob/main/sql-optimization-automation.md)
 * 🏠 **[Intro to Machine Learning](https://github.com/Azin-sh/kaggle-intro-to-machine-learning)** - *Regression models for house price prediction.*
 * 🛍️ **[Customer Segmentation](https://github.com/Azin-sh/mall-customer-clustering-K-Mean-)** - *Unsupervised learning using K-Means.*
-  
-*[Autonomous Robotics](https://github.com/azin-sh/Out-Of-Order-Delivery-Cart-Lego-Spike)** - Python-based navigation and recovery logic.*
+* 🤖 **[Autonomous Robotics](https://github.com/azin-sh/Out-Of-Order-Delivery-Cart-Lego-Spike)** - *Python-based navigation and recovery logic.*
 ---
 
 ### 📂 Available Case Studies
