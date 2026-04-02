@@ -34,7 +34,9 @@ Currently based in **California**, I am expanding my technical stack at Las Posi
 * 🤖 **[Autonomous Robotics](./autonomous-delivery-cart)** - Python-based navigation and recovery logic.
 
 ---
-
+### 📂 Available Case Studies
+* [CRM & Billing Integration Analysis](./crm-billing-integration.md) - *Reducing manual processing by 40%.*
+  
 ### 📫 Connect with Me
 * **LinkedIn:** [linkedin.com/in/azin-shahrokhi](https://www.linkedin.com/in/azin-shahrokhi)
 * **Location:** California, USA 🇺🇸
