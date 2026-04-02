@@ -29,6 +29,7 @@ Currently based in **California**, I am expanding my technical stack at Las Posi
 ---
 
 ### 📂 Featured Repositories
+* 🏠 **[Intro to Machine Learning](https://github.com/Azin-sh/kaggle-intro-to-machine-learning)**
 * 🏠 **[Intro to Machine Learning](./kaggle-intro-to-machine-learning)** - Regression models for house price prediction.
 * 🛍️ **[Customer Segmentation](./mall-customer-clustering)** - Unsupervised learning using K-Means.
 * 🤖 **[Autonomous Robotics](./autonomous-delivery-cart)** - Python-based navigation and recovery logic.
