@@ -33,7 +33,7 @@ Currently based in **California**, I am expanding my technical stack at Las Posi
 * 🏠 **[Intro to Machine Learning](https://github.com/Azin-sh/kaggle-intro-to-machine-learning)** - *Regression models for house price prediction.*
 * 🛍️ **[Customer Segmentation](https://github.com/Azin-sh/mall-customer-clustering-K-Mean-)** - *Unsupervised learning using K-Means.*
   
-🤖 **[Autonomous Robotics](https://github.com/azin-sh/Out-Of-Order-Delivery-Cart-Lego-Spike)** - *Python-based navigation and recovery logic.*
+*[Autonomous Robotics](https://github.com/azin-sh/Out-Of-Order-Delivery-Cart-Lego-Spike)** - Python-based navigation and recovery logic.*
 ---
 
 ### 📂 Available Case Studies
